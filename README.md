@@ -68,6 +68,13 @@ The findings are descriptive and structural, intended to inform further research
 
 ---
 
+## Methodological Note
+
+This analysis is based on a structured extract of CMS Open Data accessed via the public API.  
+While not a complete census of all records, the approach prioritises **structural patterns, dominant relationships, and system-level signals**, making it appropriate for institutional and governance analysis rather than exhaustive enumeration.
+
+---
+
 ## Related Work
 
 This repository is part of a broader research series examining structural concentration and governance in U.S. healthcare.
@@ -89,4 +96,4 @@ The full analysis is contained in a single Jupyter notebook and can be reproduce
 ## Author
 
 Ofile Seneo Mfetane  
-Business Intelligence & Data Analytics  
+Business Intelligence & Data Analytics
